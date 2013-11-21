@@ -1,0 +1,4 @@
+sumerge_attendance:
+    resource: "@SumergeAttendanceBundle/Resources/config/routing.yml"
+    prefix:   /
+
